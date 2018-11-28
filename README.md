@@ -1,0 +1,2 @@
+# hakar
+root phone
